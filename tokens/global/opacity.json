@@ -1,0 +1,16 @@
+{
+    "opacity": {
+      "low": {
+        "value": "30%",
+        "type": "opacity"
+      },
+      "md": {
+        "value": "50%",
+        "type": "opacity"
+      },
+      "high": {
+        "value": "90%",
+        "type": "opacity"
+      }
+    },
+}

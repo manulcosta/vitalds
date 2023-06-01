@@ -1,0 +1,486 @@
+{
+  "Brand": {
+    "Black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "White": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "Green": {
+      "value": "#439682",
+      "type": "color"
+    }
+  },
+  "core": {
+    "Blue": {
+      "Blue 10": {
+        "value": "#e5f0fe",
+        "type": "color",
+        "description": "Blue / Blue 10\n#e5f0fe\n1.15:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Blue 20": {
+        "value": "#bfdbfc",
+        "type": "color",
+        "description": "Blue / Blue 20\n#bfdbfc\n1.42:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Blue 30": {
+        "value": "#95c2fb",
+        "type": "color",
+        "description": "Blue / Blue 30\n#95c2fb\n1.84:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Blue 40": {
+        "value": "#68a7f8",
+        "type": "color",
+        "description": "Blue / Blue 40\n#68a7f8\n2.48:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Blue 50": {
+        "value": "#428bf1",
+        "type": "color",
+        "description": "Blue / Blue 50\n#428bf1\n3.39:1\n(AA) Large text\n(N/A) Normal text"
+      },
+      "Blue 60": {
+        "value": "#2c73df",
+        "type": "color",
+        "description": "Blue / Blue 60\n#2c73df\n4.54:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Blue 70": {
+        "value": "#285eba",
+        "type": "color",
+        "description": "Blue / Blue 70\n#285eba\n6.18:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Blue 80": {
+        "value": "#214d99",
+        "type": "color",
+        "description": "Blue / Blue 80\n#214d99\n8.12:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Blue 90": {
+        "value": "#1a3e7a",
+        "type": "color",
+        "description": "Blue / Blue 90\n#1a3e7a\n10.43:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Blue 100": {
+        "value": "#122b54",
+        "type": "color",
+        "description": "Blue / Blue 100\n#122b54\n14.01:1\n(AAA) Large text\n(AAA) Normal text"
+      }
+    },
+    "Beige": {
+      "Beige 10": {
+        "value": "#f5efdd",
+        "type": "color",
+        "description": "Beige / Beige 10\n#f5efdd\n1.15:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Beige 20": {
+        "value": "#e5d8ae",
+        "type": "color",
+        "description": "Beige / Beige 20\n#e5d8ae\n1.42:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Beige 30": {
+        "value": "#cabe99",
+        "type": "color",
+        "description": "Beige / Beige 30\n#cabe99\n1.85:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Beige 40": {
+        "value": "#aea483",
+        "type": "color",
+        "description": "Beige / Beige 40\n#aea483\n2.49:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Beige 50": {
+        "value": "#948b6f",
+        "type": "color",
+        "description": "Beige / Beige 50\n#948b6f\n3.40:1\n(AA) Large text\n(N/A) Normal text"
+      },
+      "Beige 60": {
+        "value": "#7d755d",
+        "type": "color",
+        "description": "Beige / Beige 60\n#7d755d\n4.59:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Beige 70": {
+        "value": "#68624d",
+        "type": "color",
+        "description": "Beige / Beige 70\n#68624d\n6.10:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Beige 80": {
+        "value": "#55503f",
+        "type": "color",
+        "description": "Beige / Beige 80\n#55503f\n8.06:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Beige 90": {
+        "value": "#443f31",
+        "type": "color",
+        "description": "Beige / Beige 90\n#443f31\n10.49:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Beige 100": {
+        "value": "#2f2b21",
+        "type": "color",
+        "description": "Beige / Beige 100\n#2f2b21\n14.11:1\n(AAA) Large text\n(AAA) Normal text"
+      }
+    },
+    "Gray": {
+      "Gray 10": {
+        "value": "#efefef",
+        "type": "color",
+        "description": "Gray / Gray 10\n#efefef\n1.15:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Gray 20": {
+        "value": "#d8d8d8",
+        "type": "color",
+        "description": "Use: Dividers\n\nGray / Gray 20\n#d8d8d8\n1.43:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Gray 30": {
+        "value": "#bfbfbf",
+        "type": "color",
+        "description": "Gray / Gray 30\n#bfbfbf\n1.84:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Gray 40": {
+        "value": "#a4a4a4",
+        "type": "color",
+        "description": "Gray / Gray 40\n#a4a4a4\n2.49:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Gray 50": {
+        "value": "#8b8b8b",
+        "type": "color",
+        "description": "Gray / Gray 50\n#8b8b8b\n3.41:1\n(AA) Large text\n(N/A) Normal text"
+      },
+      "Gray 60": {
+        "value": "#757575",
+        "type": "color",
+        "description": "Gray / Gray 60\n#757575\n4.61:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Gray 70": {
+        "value": "#616161",
+        "type": "color",
+        "description": "Gray / Gray 70\n#616161\n6.19:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Gray 80": {
+        "value": "#505050",
+        "type": "color",
+        "description": "Gray / Gray 80\n#505050\n8.06:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Gray 90": {
+        "value": "#3f3f3f",
+        "type": "color",
+        "description": "Gray / Gray 90\n#3f3f3f\n10.53:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Gray 100": {
+        "value": "#2b2b2b",
+        "type": "color",
+        "description": "Gray / Gray 100\n#2b2b2b\n14.16:1\n(AAA) Large text\n(AAA) Normal text"
+      }
+    },
+    "Green": {
+      "Green 10": {
+        "value": "#e0f5d9",
+        "type": "color",
+        "description": "Green / Green 10\n#e0f5d9\n1.15:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Green 20": {
+        "value": "#bce3ac",
+        "type": "color",
+        "description": "Green / Green 20\n#bce3ac\n1.43:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Green 30": {
+        "value": "#8ed075",
+        "type": "color",
+        "description": "Green / Green 30\n#8ed075\n1.84:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Green 40": {
+        "value": "#61b83e",
+        "type": "color",
+        "description": "Green / Green 40\n#61b83e\n2.49:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Green 50": {
+        "value": "#16a135",
+        "type": "color",
+        "description": "Green / Green 50\n#16a135\n3.40:1\n(AA) Large text\n(N/A) Normal text"
+      },
+      "Green 60": {
+        "value": "#11882b",
+        "type": "color",
+        "description": "Green / Green 60\n#11882b\n4.58:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Green 70": {
+        "value": "#0c7223",
+        "type": "color",
+        "description": "Green / Green 70\n#0c7223\n6.09:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Green 80": {
+        "value": "#085d1b",
+        "type": "color",
+        "description": "Green / Green 80\n#085d1b\n8.10:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Green 90": {
+        "value": "#054a14",
+        "type": "color",
+        "description": "Green / Green 90\n#054a14\n10.52:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Green 100": {
+        "value": "#02340b",
+        "type": "color",
+        "description": "Green / Green 100\n#02340b\n14.01:1\n(AAA) Large text\n(AAA) Normal text"
+      }
+    },
+    "Purple": {
+      "Purple 10": {
+        "value": "#f2edf9",
+        "type": "color",
+        "description": "Purple / Purple 10\n#f2edf9\n1.15:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Purple 20": {
+        "value": "#e0d2f3",
+        "type": "color",
+        "description": "Purple / Purple 20\n#e0d2f3\n1.43:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Purple 30": {
+        "value": "#ccb4ef",
+        "type": "color",
+        "description": "Purple / Purple 30\n#ccb4ef\n1.85:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Purple 40": {
+        "value": "#b794e9",
+        "type": "color",
+        "description": "Purple / Purple 40\n#b794e9\n2.49:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Purple 50": {
+        "value": "#a375e2",
+        "type": "color",
+        "description": "Purple / Purple 50\n#a375e2\n3.39:1\n(AA) Large text\n(N/A) Normal text"
+      },
+      "Purple 60": {
+        "value": "#8f58dc",
+        "type": "color",
+        "description": "Purple / Purple 60\n#8f58dc\n4.57:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Purple 70": {
+        "value": "#7b3ad6",
+        "type": "color",
+        "description": "Purple / Purple 70\n#7b3ad6\n6.14:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Purple 80": {
+        "value": "#6628bd",
+        "type": "color",
+        "description": "Purple / Purple 80\n#6628bd\n8.07:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Purple 90": {
+        "value": "#512098",
+        "type": "color",
+        "description": "Purple / Purple 90\n#512098\n10.45:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Purple 100": {
+        "value": "#39166a",
+        "type": "color",
+        "description": "Purple / Purple 100\n#39166a\n14.03:1\n(AAA) Large text\n(AAA) Normal text"
+      }
+    },
+    "Teal": {
+      "Teal 10": {
+        "value": "#e1f3f0",
+        "type": "color",
+        "description": "Teal / Teal 10\n#e1f3f0\n1.15:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Teal 20": {
+        "value": "#b5e1da",
+        "type": "color",
+        "description": "Teal / Teal 20\n#b5e1da\n1.42:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Teal 30": {
+        "value": "#1ed6bb",
+        "type": "color",
+        "description": "Teal / Teal 30\n#1ed6bb\n1.84:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Teal 40": {
+        "value": "#0cb99f",
+        "type": "color",
+        "description": "Teal / Teal 40\n#0cb99f\n2.48:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Teal 50": {
+        "value": "#029d86",
+        "type": "color",
+        "description": "Teal / Teal 50\n#029d86\n3.40:1\n(AA) Large text\n(N/A) Normal text"
+      },
+      "Teal 60": {
+        "value": "#018571",
+        "type": "color",
+        "description": "Teal / Teal 60\n#018571\n4.57:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Teal 70": {
+        "value": "#016e5e",
+        "type": "color",
+        "description": "Teal / Teal 70\n#016e5e\n6.19:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Teal 80": {
+        "value": "#015b4d",
+        "type": "color",
+        "description": "Teal / Teal 80\n#015b4d\n8.06:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Teal 90": {
+        "value": "#00483e",
+        "type": "color",
+        "description": "Teal / Teal 90\n#00483e\n10.52:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Teal 100": {
+        "value": "#00322b",
+        "type": "color",
+        "description": "Teal / Teal 100\n#00322b\n14.08:1\n(AAA) Large text\n(AAA) Normal text"
+      }
+    },
+    "Yellow": {
+      "Yellow 10": {
+        "value": "#ffedc6",
+        "type": "color",
+        "description": "Yellow / Yellow 10\n#ffedc6\n1.16:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Yellow 20": {
+        "value": "#ffd372",
+        "type": "color",
+        "description": "Yellow / Yellow 20\n#ffd372\n1.42:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Yellow 30": {
+        "value": "#feaf00",
+        "type": "color",
+        "description": "Yellow / Yellow 30\n#feaf00\n1.85:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Yellow 40": {
+        "value": "#db9700",
+        "type": "color",
+        "description": "Yellow / Yellow 40\n#db9700\n2.49:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Yellow 50": {
+        "value": "#ba8000",
+        "type": "color",
+        "description": "Yellow / Yellow 50\n#ba8000\n3.40:1\n(AA) Large text\n(N/A) Normal text"
+      },
+      "Yellow 60": {
+        "value": "#9d6c00",
+        "type": "color",
+        "description": "Yellow / Yellow 60\n#9d6c00\n4.59:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Yellow 70": {
+        "value": "#835a00",
+        "type": "color",
+        "description": "Yellow / Yellow 70\n#835a00\n6.13:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Yellow 80": {
+        "value": "#6b4a00",
+        "type": "color",
+        "description": "Yellow / Yellow 80\n#6b4a00\n8.06:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Yellow 90": {
+        "value": "#553b00",
+        "type": "color",
+        "description": "Yellow / Yellow 90\n#553b00\n10.44:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Yellow 100": {
+        "value": "#3b2800",
+        "type": "color",
+        "description": "Yellow / Yellow 100\n#3b2800\n14.10:1\n(AAA) Large text\n(AAA) Normal text"
+      }
+    },
+    "Pink": {
+      "Pink 10": {
+        "value": "#fdebeb",
+        "type": "color",
+        "description": "Pink / Pink 10\n#fdebeb\n1.15:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Pink 20": {
+        "value": "#facdcd",
+        "type": "color",
+        "description": "Pink / Pink 20\n#facdcd\n1.43:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Pink 30": {
+        "value": "#fca9a9",
+        "type": "color",
+        "description": "Pink / Pink 30\n#fca9a9\n1.84:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Pink 40": {
+        "value": "#fe7d7d",
+        "type": "color",
+        "description": "Pink / Pink 40\n#fe7d7d\n2.49:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Pink 50": {
+        "value": "#e66060",
+        "type": "color",
+        "description": "Pink / Pink 50\n#e66060\n3.38:1\n(AA) Large text\n(N/A) Normal text"
+      },
+      "Pink 60": {
+        "value": "#c25151",
+        "type": "color",
+        "description": "Pink / Pink 60\n#c25151\n4.58:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Pink 70": {
+        "value": "#a14444",
+        "type": "color",
+        "description": "Pink / Pink 70\n#a14444\n6.13:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Pink 80": {
+        "value": "#843838",
+        "type": "color",
+        "description": "Pink / Pink 80\n#843838\n8.06:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Pink 90": {
+        "value": "#6a2c2c",
+        "type": "color",
+        "description": "Pink / Pink 90\n#6a2c2c\n10.45:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Pink 100": {
+        "value": "#491f1f",
+        "type": "color",
+        "description": "Pink / Pink 100\n#491f1f\n14.01:1\n(AAA) Large text\n(AAA) Normal text"
+      }
+    },
+    "Red": {
+      "Red 10": {
+        "value": "#fdebeb",
+        "type": "color",
+        "description": "Red / Red 10\n#fdebeb\n1.15:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Red 20": {
+        "value": "#facdcd",
+        "type": "color",
+        "description": "Red / Red 20\n#facdcd\n1.43:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Red 30": {
+        "value": "#faaaaa",
+        "type": "color",
+        "description": "Red / Red 30\n#faaaaa\n1.84:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Red 40": {
+        "value": "#fd7e7e",
+        "type": "color",
+        "description": "Red / Red 40\n#fd7e7e\n2.48:1\n(N/A) Large text\n(N/A) Normal text"
+      },
+      "Red 50": {
+        "value": "#ff4646",
+        "type": "color",
+        "description": "Red / Red 50\n#ff4646\n3.38:1\n(AA) Large text\n(N/A) Normal text"
+      },
+      "Red 60": {
+        "value": "#ec0000",
+        "type": "color",
+        "description": "Red / Red 60\n#ec0000\n4.60:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Red 70": {
+        "value": "#c70000",
+        "type": "color",
+        "description": "Red / Red 70\n#c70000\n6.13:1\n(AAA) Large text\n(AA) Normal text"
+      },
+      "Red 80": {
+        "value": "#a60000",
+        "type": "color",
+        "description": "Red / Red 80\n#a60000\n8.01:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Red 90": {
+        "value": "#860000",
+        "type": "color",
+        "description": "Red / Red 90\n#860000\n10.43:1\n(AAA) Large text\n(AAA) Normal text"
+      },
+      "Red 100": {
+        "value": "#600000",
+        "type": "color",
+        "description": "Red / Red 100\n#600000\n14.02:1\n(AAA) Large text\n(AAA) Normal text"
+      }
+    }
+  }
+}
